@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/espocrm/espocrm/releases/download/6.1.2/EspoCRM-6.1.2.zip
+SOURCE_SUM=5bd744674320bf7eb8389a8b028a1904159b080a7898d8819373abc8dddbf347
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FORMAT=.zip
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=EspoCRM-6.1.2.zip
 SOURCE_EXTRACT=true
